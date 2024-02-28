@@ -1,0 +1,39 @@
+html {
+    height: 100dvh;
+
+}
+
+body {
+    background: lightgray;
+    margin: 0;
+}
+
+.post-header {
+    display: flex;
+}
+
+.post {
+    width: 600px;
+    margin: auto;
+    background-color: white;
+}
+img{
+    width: 600px;
+    object-fit: cover;
+}
+.post-icons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.right{
+    display: flex;
+}
+.left{
+    display: flex;
+}
+.post-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
